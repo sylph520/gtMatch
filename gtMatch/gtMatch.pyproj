@@ -23,6 +23,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="gtMatch.py" />
+    <Compile Include="text_extract.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="labels.json" />
+    <Content Include="questions.json" />
+    <Content Include="semantics.json" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
