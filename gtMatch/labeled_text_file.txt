@@ -1,0 +1,137 @@
+In circle O, diameter AB is perpendicular to chord CD at E. If CD = 8 and BE = 2, find AE.
+The diagram at the right shows the construction of the perpendicular bisector of AB. Which statement is not true?
+The diagram below illustrates the construction of line PS parallel to line RQ through point P. Which statement justifies this construction?
+Given triangle ABC with base AFEDC, median BF, altitude BD, and BE bisects angle ABC, which conclusion is valid?
+In the diagram at the right, line PS is a tangent to circle O at point S, line PQR is a secant, PS = x, PQ = 3, PR = x + 18. What is the length of line PS?
+In the diagram below of triangle ABC, D is a point on line AB, AC = 7, AD = 6, and BC = 18. Which of the following could be the length of line DB?
+In the diagram of triangle PRT, Q is a point on line PR, S is a point on line TR, line QS is drawn, and angle RPT = angle RSQ. Which reason justifies the conclusion that triangle PRT is similar to triangle SRQ?
+In triangle ABC, line DE is parallel with line AC, DB = 4, AD = 8, and DE = 5. Find AC.
+In triangle ABC, line BC is extended to E, and D is a point on line BC. Which of the following must be true?
+In the accompanying diagram, line AB and line CD intersect at E, E is the midpoint of line AB, and angle A = angle B. Which statement can be used to prove that triangle ADE is congruent to triangle BCE?
+In the accompanying diagram of circle O, chords AB and CD intersect at E and AC : CB : BD : DA = 4 : 2 : 6 : 8. What is measure of the angle DEB?
+In the accompanying diagram, ABC is an equilateral triangle with a perimeter of 30. What is the length of altitude h of this triangle?
+In the figure above, lines l and k intersect at point Q. If m = 40 and p = 25, what is the value of x?
+In the figure above, triangle ABC is inscribed in the circle with center O and diameter AC. If AB = AO, what is the degree measure of angle ABO?
+In the figure above, line AB, line CD, and line EF intersect at P. If r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+In the figure above, CDE is an equilateral triangle and ABCE is a square with an area of 1. What is the perimeter of polygon ABCDE?
+In triangle ABC above, AB = AC, E is the midpoint of line AB, and D is the midpoint of line AC. If AE = x and ED = 4, what is length BC?
+If x = 20 and y = 30 in the figure above, what is the value of z?
+Point O is the center of both circles in the figure above. If the circumference of the large circle is 36 and the radius of the small circle is half of the radius of the large circle, what is the length of the darkened arc?
+In isosceles triangle ABC above, line AM and line CM are the angle bisectors of angle BAC and angle BCA. What is the measure of angle AMC?
+The figure above is composed of 25 small triangles that are congruent and equilateral. If the area of triangle DFH is 10, what is the area of triangle AFK?
+In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+In the figure above, point B lies on line AC. If x and y are integers, which of the following is a possible value of x?
+In the figure above, P, Q, and R lie on the same line. P is the center of the larger circle, and Q is the center of the smaller circle. If the radius of the larger circle is 4, what is the radius of the smaller circle?
+The two semicircles in the figure above have centers R and S, respectively. If RS = 12, what is the total length of the darkened curve?
+In the figure above, l || m. Which of the following must equal 180?
+In the figure above, three lines intersect at a point. If f = 85 and c = 25, what is the value of a?
+In the figure above, triangles ABC and CDE are equilateral and line segment AE has length 25. What is the sum of the perimeters of the two triangles?
+In the figure above, which of the following is the greatest?
+In the figure above, if l || m and r = 91, then t + u =
+In triangle PQR above, PR = QR. Which of the following must be true?
+What is the perimeter of the trapezoid above?
+In the figure above, the smaller circles each have radius 3. They are tangent to the larger circle at points A and C, and are tangent to each other at point B, which is the center of the larger circle. What is the perimeter of the shaded region?
+In the figure above, AC = 6 and BC = 3. Point P lies on line AB between A and B such that line CP is perpendicular to line AB. Which of the following could be the length of line CP?
+The figure above shows five lines. If l || m, which of the following is not equal to 90?
+The figure above shows three squares with sides of length 5, 7, and x, respectively. If A, B, and C lie on line l, what is the value of x?
+In the figure above, what is the value of y?
+In the figure above, ABCDEF is a regular hexagon, and its center is point O. What is the value of x?
+The circle above has an area of 25*\pi and is divided into 8 congruent regions. What is the perimeter of these regions?
+In the figure above, point P is on line l. What is the value of x?
+In the figure above, what is the value of x?
+The figure above shows six right triangles. What is the value of x^2 + y^2?
+The circle above has center O and is divided into 9 equal arcs. What is the value of x?
+In quadrilateral PQRS above, what is the value of a^2 + b^2?
+In the figure above, point O lies on line AB. What is the value of x?
+In triangle ABC above, the bisector of angle BAC is perpendicular to BC at point D. If AB = 6 and BD = 3, what is the measure of angle BAC?
+In the figure above, three lines intersect at a point. What is the value of y?
+In the figure above, the circle has center P and radius r. Lines AB and AC are tangent to the circle. If M is the midpoint of segment AC and the measure of angle PMC equals the measure of angle MPC, what is the length, in terms of r, of segment PA?
+In the triangle in the figure above, what is the value of x?
+The area of rectangle ABCD above is 168. What is the length of segment AC?
+In the figure above, ABCD is a rectangle. What is the area of triangle AFB?
+In the figure above, two line segments meet at a point on line l. What is the value of x?
+In the figure above, ABCD is a rectangle. If AD = 6, which of the following could be the length of line AC?
+A portion of the circle with center O is shaded as in the figure above. If the area of the shaded region is 12*\pi, and 1/6 of the circle is shaded, what is the area of the circle?
+A square is tangent to a line at point P in the figure above. What is the value of x?
+Rectangle ABCD is subdivided into two identical square regions, as in the figure above. If the area of each square is 9, what is the perimeter of ABCD?
+In the triangle above, what is the average of x, y, and z?
+Rectangle ABCD shown in the figure above has width w and length l that is twice the width. If w = 2, what is the area of the rectangle?
+In the figure shown above, AC = 6. What is the length of segment AB?
+In the figure above, the ratio of the length of line AB to the length of line AC is 2 : 5. If AC = 25, what is the length of line AB?
+Triangle ABC and line l are shown in the figure above. What is the sum of y and z?
+For trapezoid ABCD shown above, AB = 24, AD = 23, and BC = 16. What is the length of segment CD?
+In the figure above, ABCD is a rectangle. What is the area of ABCD?
+Semicircular arcs AO and OB divide the circle above with center O into two regions. If the length of diameter AB is 12, what is the area of the shaded region?
+In the figure above, two line segments meet at a point on line l. If the value of y is equal to the square of the value of x, what is the value of y?
+In the figure above, line AC is a diameter of the large circle and B lies on line AC so that line AB is a diameter of the small circle. If AB = 1 and BC = 2, what is the area of the shaded region?
+In the figure above, AB = 6 and BC = 8. What is the area of triangle ABC?
+In the figure above, 3 < a < 5 and 6 < b < 8. Which of the following represents all possible values of c?
+In the figure above, AB = 6 and BC = 8. What is the length of segment BD?
+In the figure above, AC = 7 and AB = BC. What is the smallest possible integer value of AB?
+In the figure above, four line segments meet at a point to form four angles. What is the value of x?
+In the figure above, ABCD is a rectangle and FC = ED. What fraction of the rectangle is shaded?
+If you are standing 40 feet from the side of a building and the angle to the top of the building is 50 degrees, find the height, h, of the building to the nearest hundredth.
+Line AB is tangent to circle O. If AB = 8 and OB = 10, find the diameter of the circle.
+Which of the following two segments from the figure create an obtuse angle?
+What is the length of side AC to the nearest hundredth? Assume ABC is a right triangle.
+The measure of angle ABC is 30*\degree. BC = 10. Segment BD is an altitude. If triangle ABC is isosceles, find the length of segment AC.
+Line AB is tangent to circle O. If AB = 24 and OB = 25, find DB.
+In the diagram above, line AB is parallel to line CD, and line EF is perpendicular to line CD. What is the measure of angle x?
+If triangle ABC in the figure above is an equilateral triangle and D is a right angle, find the value of x.
+Triangle BDC, shown above, has an area of 48. If ABCD is a rectangle, what is the area of the circle?
+In the diagram above, angle OBC is congruent to angle OCB. How many degrees does angle A measure?
+Which of the following must be true about the sum of the measure of angle A and the measure of angle B?
+Which of the following must be the value of y?
+What is the value of b in the figure above?
+If p || q, which of the following is equal to 80?
+Based on the figure, which of the following must be true? I. a < b II. c = 135*\degree III. B < c
+What is the length of the hypotenuse in the triangle above?
+What is the length of c in the triangle above?
+What is the length of a in the triangle above?
+What is the length of y in the triangle above?
+If x = 32 and r = 18, what is the length of the arc shown in the figure above?
+What is the area of the sector shown above?
+What is the length of line AB in the figure above if line BC is the radius of the circle and line AB is tangent to the circle?
+If the two polygons above are similar, what is the value of d?
+Which of the following must be true about the square above? I. a = b II. line AC = line BC III. b = c
+In the diagram above, lines EF and GH are parallel, and line AB is perpendicular to lines EF and GH. What is the length of line AB?
+In the diagram above, what is the sum of the measures of the angles x, y, and z?
+Given the following figure with one tangent and one secant drawn to the circle, what is the measure of angle ABD?
+In the diagram above, line OA is congruent to line OB. What is the measure of arc CD?
+In the diagram above, angle A is congruent to angle BED, and angle C is congruent to angle D. If the ratio of the length of AB to the length of EB is 5:1, and the area of the triangle BED is 5*a^2 + 10, what is the area of triangle ABC?
+In the diagram above, lines K and L are parallel, and lines M and N are parallel. If b = 8, then a =
+In the diagram above, lines M and N are parallel. All of the following are true except
+The radius of the outer circle shown above is 1.2 times greater than the radius of the inner circle. What is the area of the shaded region.
+What is the area of the figure below?
+What is the value of x?
+What is the value of x?
+What is the value of x?
+What is the measure of angle ABC?
+y - x =
+Which of the following statements is correct?
+What is the area of the triangle below?
+The measure of angle BAC equals x*\degree. What is the value of x?
+The area of the triangle below is 56. What is the height of the triangle?
+y - x =
+What is the measure of angle CBA?
+x + y =
+In the figure above, PQRS is a rectangle. The area of triangle RST is 7 and PT=2/5*PS. What is the area of PQRS?
+In the figure above, point B lies on side AC. If 55 < x < 60, what is one possible value of y ?
+In rectangle ABDF above, C and E are midpoints of sides BD and DF, respectively. What fraction of the area of the rectangle is shaded?
+In rectangle ABCD above, the area of the shaded region is given by \pi*l*w/4. If the area of the shaded region is 7*\pi, what is the total area, to the nearest whole number, of the unshaded regions of rectangle ABCD ?
+Four lines are drawn through the center of the rectangle shown above. What fraction of the area of the rectangle is shaded?
+In the figure above, the seven small circles, which have equal radii, and the large circle share only those points on the circles that are marked. Point P is the center of the large circle and PA and PB are radii. The area of the shaded portion is how many times the area of one of the small circles?
+In the figure above, the seven small circles, which have equal radii, and the large circle share only those points on the circles that are marked. Point P is the center of the large circle and PA and PB are radii. The area of the shaded portion is how many times the area of one of the small circles?
+In the figure above, the circle with center O has radius 7, AB is a diameter, and AC = BC. What is the area of triangle ABC?
+In the figure above, lines l and m are not parallel. Which of the following cannot be the value of x?
+In the triangle above, which of the following must be true?
+In the figure above, what is the value of x?
+The perimeter of the rectangle above is p and the area of the rectangle is 36. If l and w are integers, what is one possible value of p?
+In the figure above, if the angle (not shown) where lines n and p intersect is twice as large as the angle (also not shown) where lines l and m intersect, what is the value of x?
+In the figure above, points A and B lie on the circle with center O. If x = 80, what is the value of z?
+In the figure above, the four circles have the same center and their radii are 1, 2, 3, and 4, respectively. What is the ratio of the area of the small shaded ring to the area of the large shaded ring?
+If the perimeter of the rectangle above is 72, what is the value of x?
+In triangle ABC above, the length of AB is 3, and D is the midpoint of AC. What is the length of BC?
+In the figure above, side AC of triangle ABC is on line l. What is x in terms of k?
+In the figure above, the lengths and widths of rectangles A, B, C, and D are whole numbers. The areas of rectangles A, B, C, and D are whole numbers. The areas of rectangles A, B, and C are 35, 45, and 36, respectively. What is the area of the entire figure?
+In the figure above, if the area of triangle CAF is equal to the area of rectangle CDEF, what is the length of segment AD?

@@ -1,0 +1,593 @@
+In circle O, diameter AB is perpendicular to chord CD at E. If CD = 8 and BE = 2, find AE.
+The diagram at the right shows the construction of the perpendicular bisector of AB. Which statement is not true?
+The diagram below illustrates the construction of line PS parallel to line RQ through point P. Which statement justifies this construction?
+Given triangle ABC with base AFEDC, median BF, altitude BD, and BE bisects angle ABC, which conclusion is valid?
+In the diagram at the right, line PS is a tangent to circle O at point S, line PQR is a secant, PS = x, PQ = 3, PR = x + 18. What is the length of line PS?
+In the diagram below of triangle ABC, D is a point on line AB, AC = 7, AD = 6, and BC = 18. Which of the following could be the length of line DB?
+In the diagram of triangle PRT, Q is a point on line PR, S is a point on line TR, line QS is drawn, and angle RPT = angle RSQ. Which reason justifies the conclusion that triangle PRT is similar to triangle SRQ?
+In the diagram at the right, line BC is perpendicular to line AD, line ED is perpendicular to line AD, line AF = line CD and angle A = angle EFD. Which method proves that triangle ACB is congruent to triangle FDE?
+In triangle ABC, line DE is parallel with line AC, DB = 4, AD = 8, and DE = 5. Find AC.
+The diagram at the right is a construction involving angle ABC. Which of the following statement is not true?
+In the diagram, line l_1 is parallel to line l_2, angle 3 = 30 and angle 4 = 110. Find angle 2.
+In the rhombus PQRS, PR = 24 and QS = 10. Find the perimeter of the rhombus.
+In circle O, secant SD intersects the circle at C and secant SB intersects the circle at A. If SC = 6, CD = 8, and SA = 4, find AB.
+In triangle ABC, line BC is extended to E, and D is a point on line BC. Which of the following must be true?
+In the accompanying diagram of right triangle ABC, altitude AD divides hypotenuse BC into segments with lenghts of 4 and 5. Find the length of leg AB.
+In the accompanying diagram, line AB is parallel with line CD and line FHE, AEF = 40, and FHG = 60. Find the measure of angle HGD.
+In the accompanying diagram, line PQ and line PS are tangents drawn to circle O, and chord QS is drawn. If the measure of angle P is equal to 40, what is the measure of angle PQS?
+In the accompanying diagram, line AB and line CD intersect at E, E is the midpoint of line AB, and angle A = angle B. Which statement can be used to prove that triangle ADE is congruent to triangle BCE?
+In the accompanying diagram of circle O, chords AB and CD intersect at E and AC : CB : BD : DA = 4 : 2 : 6 : 8. What is measure of the angle DEB?
+In the accompanying diagram, ABC is an equilateral triangle with a perimeter of 30. What is the length of altitude h of this triangle?
+The diagram at the right shows the construction of a perpendicular, line PX, to a line l from point P. The arc drawn from point P intersects line l at A and B, and the arcs drawn from points A and B intersect line PX at C.  Which of the statements is not always true about this construction?
+In the diagram at the right, the segments shown are tangent to the circle.  Find the value of x.
+Given Circle O with diameter CD. AB is parallel with CD and AB=80*\degree. Find angle of arc CA.
+Given the circle at the right with two intersecting chords. Find x.
+In the accompanying diagram, tangent AB and secant AD are drawn to circle O from point A, AB = 6 and AC = 4. Find AD.
+In the accompanying diagram of circle O, the measure of angle ABC is 2*x and the measure of arc AC is x+60. Find the value of x.
+In the diagram at the right, secant AB intersects circle O at D, secant AC intersects circle O at E, AE = 4, AC = 24, and AB = 16. Find AD.
+Given the circle at the right with diameter AB, find x.
+Given a circle with the center indicated. Find x.
+A cathedral window is built in the shape of a semicircle.  If the window is to contain three stained glass sections of equal size, what is the area of each stained glass section?  Express answer to the nearest square foot.
+Given tangent AC to the circle shown at the right. Find the measure of the arc designated by x.
+Given a circle with two secants as shown at the right.  Find the measure of the arc designated by x.
+Given the circle at the right with the indicated center.  Find the measure of the angle designated by x.
+Given the circle at the right with two tangents to the circle from a common external point.  Find the measure of the angle designated by x.
+Given: line AB = line AC in circle O at the right. Which method for proving congruent triangles can be used to prove that triangle ACO = triangle ABO?
+Given the circle at the right with designated center, designated perpendicular, and radius 5.  Find the length of the segment labeled x.
+Given: tangent AD, diameter CD, secant AC in circle O shown at the right. Which two sets of congruent angles can be used to prove triangle ADC is congruent to triangle DBC?
+Given: line AC bisects angle BAD and angle BCD. Which of the following methods can be used to prove triangle ABC is congruent to triangle ADC?
+In the diagram at the right, AC = DC = DB. If the measure of angle ACD is 48, find the measure of angle B.
+The diagram at the right shows a right triangle with representations for two angles.  What is the value of x?
+In the accompanying diagram, BA = BC and x = 117. Find y.
+In the diagram at the right, the angles are represented as shown. Find the measure of angle DBC.
+In the accompanying diagram, line FG is parallel with line HI and line BC and line AD intersects at E, GBE = 3x + 20, and ECD = x. What is the value of x?
+Points A, B, C, and D are midpoints of the sides of square JETS.  If the area of JETS is 36, what is the area of ABCD?
+In the diagram at the right, parallel lines a and m are cut by transversal t, 1 = 4x + 16 and 2 = 2x - 22. Find 1.
+In the diagram at the right, lines a and m are parallel with transversal t.  What is the degree measure of x?
+In the accompanying diagram of rectangle ABCD, the measure of angle ABE is 30 and the measure of angle CFE is 144. Find the measure of angle BEF.
+In the diagram at the right, lines a and m are parallel and are cut by transversal t.  Which two angles are not always congruent?
+In the diagram at the right, line a is parallel to line b, and line t is a transversal. If 1 = 97 and 2 = 44, find 3.
+In the diagram at the right, lines f and g are parallel, and lines a and b are parallel. x = 75. What is the value of y + z?
+In the diagram at the right, ABCD is a square, diagonal BD is extended through D to E, AD = DE, and line AE is drawn. What is the measure of angle DAE?
+In the accompanying diagram of rhombus ABCD, the measure of angle CAB is 35. Find the measure of angle CDA.
+In the figure above, AD = 4, AB = 3 and CD = 9. What is the area of triangle AEC?
+Which of the following could be a value of x, in the diagram above?
+ABCD is a square with side 3, and E and F are the midpoints of sides AB and BC respectively. What is the area of the quadrilateral EBFD?
+If the radius of the circle with centre O is 7 and the measure of angle AOB is 100, what is the the length of arc AB?
+ABCD is a parallelogram. BD = 2. The angles of triangle BCD are all equal. What is the perimeter of the parallelogram?
+In the figure above the square has two sides which are tangent to the circle. If the area of the circle is 4a^2*pi, what is the area of the square?
+PQRS is a parallelogram and ST = TR. What is the ratio of the area of triangle QST to the area of the parallelogram?
+Two equal circles are cut out of a rectangle of card of dimensions 16 by 8. The circles have the maximum diameter possible. What is the approximate area of the paper remaining after the circles have been cut out?
+A and B are equidistant from the line l. How many circles can be drawn with their centers on line l and that pass through both A and B?
+BD is a line segment and BAC = 1/4*ACB; ACD = ?
+In the figure below, what is the slope of line l ?
+In triangle ABC, AD = DB , DE is parallel to BC, and the area of triangle ABC is 40. What is the area of triangle ADE ?
+Rectangle ABCD has a perimeter of 26. The half circle with diameter AD has an area of 8*pi. What is the perimeter of the part of the figure that is not shaded?
+AB and DE are parallel. The measure of angle BAC is 30 , and the measure of angle CDE is 50. What is the measure of angle ACD?
+ASB is a quarter circle. PQRS is a rectangle with sides PQ and PS. PQ = 8 and PS = 6. What is the length of the arc AB?
+Which of the following pairs of angles must be equal?
+What is the area of the following square, if the length of BD is 2*\sqrt{2}?
+In the figure below, what is the value of y?
+The square ABCD touches the circle at 4 points. The length of the side of the square is 2. Find the area of the shaded region.
+In the figure above, if x < 90*\degree then which of the following must be true?
+In the figure above, line BE is perpendicular to line AD and line CF is perpendicular to line AD and AE = EF. What is the value of x?
+In the figure above, if the measure of angle AOB is 40*\degree and the length of arc AB is 4*\pi, what is the area of the sector AOB?
+If the measure of ABD=3*x-4, DBE=x-3, ABC=31, and EBC=2*x-10, then what is the value of x?
+In the figure above, lines l and k intersect at point Q. If m = 40 and p = 25, what is the value of x?
+The grid above represents equally spaced streets in a town that has no one-way streets. F marks the corner where a firehouse is located. Points W, X, Y, and Z represent the locations of some other buildings. The fire company defines a building's m-distance as the minimum number of blocks that a fire truck must travel from the firehouse to reach the building. For example, the building at X is an m-distance of 2, and the building at Y is an m-distance of 1/2 from the firehouse. What is the m-distance is the building at W from the firehouse?
+The grid above represents equally spaced streets in a town that has no one-way streets. F marks the corner where a firehouse is located. Points W, X, Y, and Z represent the locations of some other buildings. The fire company defines a building's m-distance as the minimum number of blocks that a fire truck must travel from the firehouse to reach the building. For example, the building at X is an m-distance of 2, and the building at Y is an m-distance of 1/2 from the firehouse. What is the total number of different routes that a fire truck can travel the m-distance from F to Z?
+The grid above represents equally spaced streets in a town that has no one-way streets. F marks the corner where a firehouse is located. Points W, X, Y, and Z represent the locations of some other buildings. The fire company defines a building's m-distance as the minimum number of blocks that a fire truck must travel from the firehouse to reach the building. For example, the building at X is an m-distance of 2, and the building at Y is an m-distance of 1/2 from the firehouse. All of the buildings in the town that are an m-distance of 3 from the firehouse must lie on a
+In the figure above, triangle ABC is inscribed in the circle with center O and diameter AC. If AB = AO, what is the degree measure of angle ABO?
+In the figure above, line AB, line CD, and line EF intersect at P. If r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+Based on the portions of the graphs of the functions f and g shown above, what are all values of x between -6 and 6 for which g(x) > f(x)?
+In the figure above, CDE is an equilateral triangle and ABCE is a square with an area of 1. What is the perimeter of polygon ABCDE?
+The first table above shows the number of premium members at two video rental stores, A and B, during the years 2000-2002. The second table shows the average (arithmetic mean) number of video rentals per premium member at store B during each of those years. Based on this information, which of the following best approximates the total number of video rentals by premium members at Store B during the years 2000-2002? 
+In triangle ABC above, AB = AC, E is the midpoint of line AB, and D is the midpoint of line AC. If AE = x and ED = 4, what is length BC?
+If x = 20 and y = 30 in the figure above, what is the value of z?
+Point O is the center of both circles in the figure above. If the circumference of the large circle is 36 and the radius of the small circle is half of the radius of the large circle, what is the length of the darkened arc?
+The graph above shows the number of George's unsold candy bars over a 10-day period. The points on the graph all lie on which of the following lines?
+In isosceles triangle ABC above, line AM and line CM are the angle bisectors of angle BAC and angle BCA. What is the measure of angle AMC?
+The figure above is composed of 25 small triangles that are congruent and equilateral. If the area of triangle DFH is 10, what is the area of triangle AFK?
+The graphs of the functions f and g in in the interval from x = -2 to x = 2 are shown above. Which of the following could express g in terms of f?
+In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+On the day of a rainstorm, the depth of the water at a certain location along the Winding River was recorded hourly, and the results are indicated in the line graph above. Each unit on the vertical axis represents 1 foot. If the depth of the water decreased 10 percent from 3:00 P.M. to 4:00 P.M., what was the depth of the water at 4:00 P.M.?
+If s, t, u, and v are the coordinates of the indicated points on the number line above, which of the following is greatest?
+In the figure above, the usual route from Town A to Town D is indicated by the solid line. The broken line indicates a detour route from B to C through E. Each line segment is labeled with its length in miles. How many more miles is the trip from Town A to Town D via the detour via the usual route?
+In the figure above, point B lies on line AC. If x and y are integers, which of the following is a possible value of x?
+The figure above shows the graph of a quadratic function in the xy-plane. Of all the points (x, y) on the graph, for what value of x is the value of y greatest?
+In the figure above, P, Q, and R lie on the same line. P is the center of the larger circle, and Q is the center of the smaller circle. If the radius of the larger circle is 4, what is the radius of the smaller circle?
+The two semicircles in the figure above have centers R and S, respectively. If RS = 12, what is the total length of the darkened curve?
+In the figure above, l || m. Which of the following must equal 180?
+In the xy-coordinate plane above, line l contains the points (0, 0) and (1, 2). If line m (not shown) contains the point (0, 0) and is perpendicular to l, what is an equation of m? 
+In the figure above, three lines intersect at a point. If f = 85 and c = 25, what is the value of a?
+The graph of y = f(x) is shown above. If -3 <= x <= 6, for how many values of x does f(x) = 2?
+In the figure above, triangles ABC and CDE are equilateral and line segment AE has length 25. What is the sum of the perimeters of the two triangles?
+There are five houses on each side of a street, as shown in the figure above. No two houses next to each other on the same side of the street and no two houses directly across from each other on opposite sides of the street can be painted the same color. If the houses labeled G are painted gray, how many of the seven remaining houses cannot be painted gray?
+In the figure above, which of the following is the greatest?
+Which of the following could be the equation of the graph above?
+In the figure above, what is the slope of line l?
+In the figure above, if l || m and r = 91, then t + u =
+If x is the coordinate of the indicated point on the number line above, which of the lettered points has coordinate -2x?
+The graphs of the functions f and g are lines, as shown above. What is the value of f(3) + g(3)?
+In triangle PQR above, PR = QR. Which of the following must be true?
+What is the perimeter of the trapezoid above?
+In the figure above, the smaller circles each have radius 3. They are tangent to the larger circle at points A and C, and are tangent to each other at point B, which is the center of the larger circle. What is the perimeter of the shaded region?
+In the figure above, AC = 6 and BC = 3. Point P lies on line AB between A and B such that line CP is perpendicular to line AB. Which of the following could be the length of line CP?
+The grid above shows the number of hours worked last week by 12 students of various ages at after-school jobs. Which of the following is true, according to this grid?
+Which of the lettered points in the figure above has coordinates (x, y) such that |x| + |y| = 5?
+Which of the rectangular solids shown above has a volume closest to the volume of a right circular cylinder with radius 2 and height 4?
+In the figure above, if line l has a slope of 2, what is the y-intercept of l?
+The figure above shows five lines. If l || m, which of the following is not equal to 90?
+In the figure above, the intersection of ray ray AC and ray ray BA is
+Based on the graph of the function f above, what are the values of x for which f(x) is positive?
+The figure above shows three squares with sides of length 5, 7, and x, respectively. If A, B, and C lie on line l, what is the value of x?
+What is an equation of line l in the figure above?
+If the tick marks on the number line above are equally spaced, which of the lettered points A through E is between 1/4 and 3/8?
+In the figure above, what is the value of y?
+In the figure above, ABCDEF is a regular hexagon, and its center is point O. What is the value of x?
+The circle above has an area of 25*\pi and is divided into 8 congruent regions. What is the perimeter of these regions?
+In the figure above, point P is on line l. What is the value of x?
+The figure above shows a ramp that extends from level ground to the bed of the truck. What is the slope of the ramp?
+Four lines are drawn through the center of the rectangle shown above. What fraction of the area of the rectangle is shaded?
+The pie chart above shows the three sources for Lana's college tuition. If 1/4 of the total amount was from scholarships and 1/3 was from student loans, what is the value of x?
+The coordinates of the three points are given in the figure above. Which of the following must be true? I. b = c II. f > e III. a + d = 0
+In the figure above, what is the value of x?
+In the cube above, AB = 4. What is the perimeter of rectangle ABCD?
+The figure above shows six right triangles. What is the value of x^2 + y^2?
+According to the graph above, when the wind velocity is 70 miles per hour, which of the following is closest to the pressure, in pounds per square inch?
+The circle above has center O and is divided into 9 equal arcs. What is the value of x?
+In quadrilateral PQRS above, what is the value of a^2 + b^2?
+In the figure above, point O lies on line AB. What is the value of x?
+In triangle ABC above, the bisector of angle BAC is perpendicular to BC at point D. If AB = 6 and BD = 3, what is the measure of angle BAC?
+The height of each solid shown above is 7. The base of solid I has 6 sides of equal length, 6 angles of equal measure, and center P. The base of solid II is a circle with center Q. The base of solid III is a square with center R. Which of the following is true?
+What is the area of the square shown above?
+In the figure above, three lines intersect at a point. What is the value of y?
+In the figure above, point P is the reflection of point A through the line y = x. What is the slope of the line that passes through points A and P?
+In the figure above, the circle has center P and radius r. Lines AB and AC are tangent to the circle. If M is the midpoint of segment AC and the measure of angle PMC equals the measure of angle MPC, what is the length, in terms of r, of segment PA?
+In the triangle in the figure above, what is the value of x?
+The area of rectangle ABCD above is 168. What is the length of segment AC?
+In the figure above, ABCD is a rectangle. What is the area of triangle AFB?
+In the figure above, line l is perpendicular to the y-axis and a distance of two units from the x-axis. Which of the following points is on line l?
+In the figure above, two line segments meet at a point on line l. What is the value of x?
+In the figure above, ABCD is a rectangle. If AD = 6, which of the following could be the length of line AC?
+A portion of the circle with center O is shaded as in the figure above. If the area of the shaded region is 12*\pi, and 1/6 of the circle is shaded, what is the area of the circle?
+A square is tangent to a line at point P in the figure above. What is the value of x?
+Rectangle ABCD is subdivided into two identical square regions, as in the figure above. If the area of each square is 9, what is the perimeter of ABCD?
+In the triangle above, what is the average of x, y, and z?
+The graph shown in the figure above is a parabola. For points (x, y) that are on the graph, the minimum value of y is attained at what value of x?
+In the figure above, the measure of degrees in angle ABC is 72 degrees. What is the value of x?
+Rectangle ABCD shown in the figure above has width w and length l that is twice the width. If w = 2, what is the area of the rectangle?
+In the figure shown above, AC = 6. What is the length of segment AB?
+In the figure above, the ratio of the length of line AB to the length of line AC is 2 : 5. If AC = 25, what is the length of line AB?
+Triangle ABC and line l are shown in the figure above. What is the sum of y and z?
+For trapezoid ABCD shown above, AB = 24, AD = 23, and BC = 16. What is the length of segment CD?
+The graphs of the functions f and g are lines, as shown above. If a = f(4), what is the value of g(a)?
+In the figure above, ABCD is a rectangle. What is the area of ABCD?
+Semicircular arcs AO and OB divide the circle above with center O into two regions. If the length of diameter AB is 12, what is the area of the shaded region?
+In the figure above, two line segments meet at a point on line l. If the value of y is equal to the square of the value of x, what is the value of y?
+In the figure above, line AC is a diameter of the large circle and B lies on line AC so that line AB is a diameter of the small circle. If AB = 1 and BC = 2, what is the area of the shaded region?
+The function of f is graphed in its entirety above. If the function g is defined so that g(x) = f(-x), then for what value of x does g attain its maximum value?
+On the number line above, the tick marks correspond to consecutive integers. What is the value of x?
+The curve y = x^2/2 and the line y = x/2 intersect at the origin and at the point (a, b), as shown in the figure above. What is the value of b?
+In the figure above, AB = 6 and BC = 8. What is the area of triangle ABC?
+In the figure above, 3 < a < 5 and 6 < b < 8. Which of the following represents all possible values of c?
+In the figure above, AB = 6 and BC = 8. What is the length of segment BD?
+In the figure above, a square is inscribed in a circle. If the area of the square is 36, what is the perimeter of the shaded region?
+In the figure above, AC = 7 and AB = BC. What is the smallest possible integer value of AB?
+In the figure above, two line segments in the x-y plane form a right triangle with the x-axis. What is the value of a?
+The numbers q, r, s, t, and u are indicated in the number line above. Which of the following is the largest in value?
+In the figure above, four line segments meet at a point to form four angles. What is the value of x?
+In the figure above, ABCD is a rectangle and FC = ED. What fraction of the rectangle is shaded?
+What is the midpoint of line AB?
+What is the length of line AB to the nearest hundredth?
+Which pair of points form a transversal?
+A dartboard is made from one large circle with a smaller, shaded, circle in the middle. The larger circle has a radius of 2 ft. The smaller, shaded, circle has a diameter of 2 ft. If a dart is thrown at the board, what is the probability that it will land in the shaded region?
+If you are standing 40 feet from the side of a building and the angle to the top of the building is 50 degrees, find the height, h, of the building to the nearest hundredth.
+Find the height, BD, of isosceles triangle ABC if mAC = 4 and m angle ABD = 25 degrees. Round to the nearest hundredth.
+Find mAC if isosceles triangle ABC has m angle ABD = 18 degrees and mBD = 14. Round to the nearest hundredth.
+Between what values of x is f(x) constant?
+Line AB is tangent to circle O. If m angle AOB is 62 degrees, what is the measure of angle ABO?
+Line AB is tangent to circle O. If mAB = 12 and the radius of the circle is 5, find mOB.
+A dartboard is made from four concentric circles. The radii of the circles, from largest to smallest are 4, 3, 2, and 1 ft. What is the probability that a dart thrown at the board will hit a shaded region?
+Line AB is tangent to circle O. If AB = 8 and OB = 10, find the diameter of the circle.
+Assume that the edge of the smaller shaded square is 1 inch and the edge of the larger square is 2 inches. What percent of the diagram is shaded?
+What is the probability of randomly selecting a point within the shaded region if the circles are tangent to the edges of the square and one another? Round to the nearest hundredth. Use pi = 3.14.
+Find the ares of the shaded region. Round to the nearest tenth. Use pi = 3.14.
+Which of the following two segments from the figure create an obtuse angle?
+mAF = 8. C is the midpoint of line AF, E is the midpoint of line CF, and D is the midpoint of line CE. What is mCD?
+What is the length of side AC to the nearest hundredth? Assume ABC is a right triangle.
+The measure of angle ABC is 30*\degree. BC = 10. Segment BD is an altitude. If triangle ABC is isosceles, find the length of segment AC.
+For what values of x does f(x) = 5?
+Line AB is tangent to circle O. If AB = 24 and OB = 25, find DB.
+A company's profit for the years 2003 through 2006 has been organized into the following scatter plot. A regression line has been added to the graph to aid in predicting future profit values. Approximately what profit can the company expect in 2007?
+A dartboard is made from four concentric circles. The radii of the circles, from largest to smallest are 4, 3, 2, and 1 ft. What is the probability that a dart thrown at the board will hit an unshaded region?
+In the diagram above, line AB is parallel to line CD, and line EF is perpendicular to line CD. What is the measure of angle x?
+If triangle ABC in the figure above is an equilateral triangle and D is a right angle, find the value of x.
+Triangle BDC, shown above, has an area of 48. If ABCD is a rectangle, what is the area of the circle?
+What is the perimeter of the shaded area, if the shape is a quarter circle with a radius of 8?
+In the diagram above, angle OBC is congruent to angle OCB. How many degrees does angle A measure?
+Which of the following must be true about the sum of the measure of angle A and the measure of angle B?
+Which of the following must be the value of y?
+What is the value of b in the figure above?
+If p || q, which of the following is equal to 80?
+Based on the figure, which of the following must be true? I. a < b II. c = 135*\degree III. B < c
+What is the length of the hypotenuse in the triangle above?
+What is the length of c in the triangle above?
+What is the length of a in the triangle above?
+What is the length of y in the triangle above?
+If x = 32 and r = 18, what is the length of the arc shown in the figure above?
+What is the area of the sector shown above?
+What is the length of line AB in the figure above if line BC is the radius of the circle and line AB is tangent to the circle?
+What is the sum of the interior angles in the figure above?
+If the two polygons above are similar, what is the value of d?
+Which of the following must be true about the square above? I. a = b II. line AC = line BC III. b = c
+What is the sum of the length of line AB and the length of line BC?
+What is the distance between the two points shown in the figure above?
+What is the slope of the line shown in the figure on the previous page?
+In the graph above, ABCD is a square. What are the coordinates of point B?
+In the diagram above, lines EF and GH are parallel, and line AB is perpendicular to lines EF and GH. What is the length of line AB?
+In the diagram above, what is the sum of the measures of the angles x, y, and z?
+Given the following figure with one tangent and one secant drawn to the circle, what is the measure of angle ABD?
+In the diagram above, line OA is congruent to line OB. What is the measure of arc CD?
+In the diagram above, angle A is congruent to angle BED, and angle C is congruent to angle D. If the ratio of the length of AB to the length of EB is 5:1, and the area of the triangle BED is 5*a^2 + 10, what is the area of triangle ABC?
+In the diagram above, lines K and L are parallel, and lines M and N are parallel. If b = 8, then a =
+Find the measure of angle Z.
+Which of the following could be the equation of the parabola shown above?
+In the diagram above, lines M and N are parallel. All of the following are true except
+The scatterplot above shows the speeds of different runners over time. Which of the following could be the equation of the line of best fit?
+The radius of the outer circle shown above is 1.2 times greater than the radius of the inner circle. What is the area of the shaded region.
+Triangle abc = ax^2 + bx + c Triangle qrs = (2x +7)(3x - 5) q + r + s =
+Use the graph below. Line OB is twice as long as line OA. What is the length of line OB?
+On the graph below, line LN is 4 times the length of line LM. How long is line LM?
+What is the length of line AD in the graph below?
+In the graph below, M is the midpoint of line AB, X is the midpoint of line AM, and Y is the midpoint of line BM. What is the length of line XY?
+For which value of x does f(x) = 4?
+Below is a population graph for a certain species of fox. At what point is the population growing fast?
+The slope of the line below is 3/2. What is the y-intercept?
+The graph of f(x) is shown below, f(3) =
+The graph of f(x) is shown below. If f(x) = 0, x =
+What is the area of the figure below?
+What is the value of x?
+What is the value of x?
+What is the value of x?
+What is the measure of angle ABC?
+y - x =
+Which of the following statements is correct?
+What is the area of the triangle below?
+The measure of angle BAC equals x*\degree. What is the value of x?
+The area of the triangle below is 56. What is the height of the triangle?
+y - x =
+What is the measure of angle CBA?
+x + y =
+Which of the following is the longest side?
+a + b + c + x + y =
+In the figure below, if BC = 5 then AB =
+m angle BCA = 45 degrees, m angle BAC = 60 degrees m angle CBA = 75 degrees, and m angle BDC = 90 degrees. If DC = 5 then AD =
+What is the value of x?
+What is the length of the base of the right triangle below if the area is 20 in^2?
+What is the value of x?
+If a > b, which of the following statements is true? I. RT > RS II. ST > RS III. RT > ST
+What is the value of a?
+a + b + c + d =
+Triangle ABC is an equilateral triangle and triangle ADC is an isosceles triangle. If AD = 12 what is the area of the shaded region?
+The length of each side of the square below is 6. P, Q, R, and S are each midpoints. What is the area of the shaded region (middle region)?
+All rectangles below are congruent. Which choice lists all those figures with the largest shaded region?
+If the perimeter of the rectangle below is 56, what is the value of the base?
+What is the area of the rectangle below?
+What is the value of x in the parallelogram below?
+What is the value of x in the parallelogram below?
+The area of the rectangle below is 40. What is the perimeter?
+What is the area of the square below?
+If the area of the rectangle is 120, what is the area of the triangle CPD?
+In the parallelogram below, if x is 4 times as big as y, then x - y =
+What is the area of the parallelogram below?
+What is the value of x in the figure seen below?
+What is the area of the figure seen below?
+Which of the following expressions represents the area of the shaded region below?
+Line AB is tangent to circle O at point A. The area of triangle OAB is 224. What is the value of AB?
+Line AB is tangent to the circle at point A. The circumference of circle O is 18 pi. If the area of triangle OAB is 72, then AB =
+What is the area of the shaded region?
+The inner circle is tangent to the outer circle at point P. Point O is the center of the outer circle and line PO is the diameter of the inner circle. What is the ratio of the area of the outer circle to the area of the inner circle?
+What is the area of the circle O if the length of ArcPQR is 8 pi?
+The area of the circle O below is 81 pi. What is the length of line BA?
+The area of the triangle ABC is 18, what is the area of the shaded region?
+Point O is the center of both circles in the figure seen below. What is the area of the shaded regions?
+The area of circle P is 64 pi. Line QR is tangent to circle P at point Q. If QR = 12, then PR =
+What is the value of x in circle O seen below?
+The diameter of the large circle is 12. The center of each of the congruent smaller circles lies on the diameter of the larger circle. What is the area of the shaded region?
+The area of the outer square is 256. What is the area of the inner square?
+All the circles below are congruent. The total area of the nine congruent circles is 324 pi. The square passes through the center of eight circles as shown. What is the area of the shaded region?
+Ray BD bisects angle ABC, x =
+Using the above diagram with p || q, what is the value of x?
+Which of the following statements must be true? I. a = d II. a + c = 180 III. a + d = 90
+x + y =
+In the figure above, l || m, x =
+In the figure above, l || m, y =
+2x = y, x =
+In the figure above, p || q || r  x + y + z =
+x + y =
+x =
+In the figure above, l || m and p || q  y =
+l is perpendicular to m  2y = x, y =
+In the figure above, p || q || r. Which of the following statements is not true?
+360 degrees - (a + b + d + e) =
+p is perpendicular to q, y =
+In the above figure, l || m || n  x + y =
+In the figure above, l || m  Which of the following pairs of angles are supplementary? I. 1 and 9 II. 6 and 8 III. 13 and 14
+What is the surface area of the prism seen below if the bases are isosceles triangles?
+In the rectangular pyramid below, the area of one triangular face is 21 ft^2. What is the height of the pyramid?
+Each side of the cube below has a length of 5 in.
+What is the value of PD in the square pyramid below?
+The conical tank below is filled with liquid. How much liquid has poured from the tip of the cone if the water level is 9 feet from the tip?
+The base area of a cylinder is 16 pi m^2. A plane cuts the cylinder in half forming the rectangle below. If the volume of the cylinder is 240 pi m^3 what is the area of the rectangle?
+The figure is made up of one circle inside another. What is the probability that a point picked at random will be in the shaded region?
+What is the probability that a point picked at random in the figure below will be in the shaded region?
+The figure below consists of two congruent semicircles on either end of a square. What is the probability, rounded to the nearest hundredth, that a point in the region chosen at random is not in the shaded region?
+Using the diagram below, how many different ways can you get from point A to point C and then back to point A?
+A dart is thrown randomly at the target below. The radius of the innermost circle is 2, and the radius of each circle doubles as the circles gets bigger. What is the probability the dart will hit the shaded region, to the nearest hundredth of a percentage?
+Which of the following choices is the best estimator for the slope of the line that best fits the data?
+Below is a scatter plot showing the number of acres of land a house is on compared to the price of the house. What percentage of the houses on more than 4 acres cost less than $400,000?
+In the figure below, a || b. What is the value of z?
+For which points on the number line below is the statement x^3 > x^2 true? I. x II. -1 < x < 1 III. x > 1
+What is the area of the triangle below?
+The rectangle in the figure below is inscribed in a circle with a radius of 5 square root 5. If the height of the rectangle is twice its base, what is the area of the rectangle?
+In the rectangular prism below EF = 8 and FG = 6. What is the value of EG?
+In the rectangle ABCD below, M is the midpoint of line CD. If the length of rectangle ABDC is 3 times the width, and the area of triangle AMB is 18, what is the length of line CM?
+The function graphed below is a cubic function. f(a) = -f(2). Which of the following could be the value of a?
+x =
+In triangle ABC, shown below, line AB ~= line BC. What is the value of x?
+x + y =
+Part of the graph of the function f(x) is below. If f(x) = f(-x), f(1.5) =
+Which of the following inequalities create the graph below?
+The scatterplot below shows the number of hours students spent studying for a history test and the grade students received. Which of the following is the equation of the best fitting line to the scatter plot below?
+What is the area of the figure shown below if the length of each side of the four congruent regular hexagons is 10?
+In the figure below line BE bisects angle FOD. What is the measure of angle FOA?
+The rectangle below in the xy-coordinate plane has two points on the x-axis and two points on the graph of the function f(x) = -x^2 + 11. what is the area of the rectangle?
+In the figure below line a and line b are not parallel. If line t bisects the acute angel PQR, this means y cannot equal what number?
+The radius of the outer circle is twice the radius of the inner circle. What is the probability that a point chosen at random inside the outer circle will be inside the inner shaded region?
+In the figure seen below, line AB is perpendicular to line BC, x =
+The function of f(x) is graphed below. At which of the following points would a line with a slope -1/2 be perpendicular to f(x)?
+The graphs of f(x) and g(x) are given below. If g(x) = f(x + h) + k, what is the value of h?
+In the triangle seen below, line BD is perpendicular to line AC, line AB ~= line CB, and the measure of angle ABC is 60 degrees, which of the following statements are true? I. Triangle ABC is an equilateral triangle. II. The length of line AB is twice the length of line AD. III. The length of line AD is equal to the length of line CD.
+The distance between adjacent marks on the number line is one unit. Use the number line below to determine which of the following points is not equal to |x - y|.
+What is the value of x + y?
+The graph of f(x) below -f(a) = 2; which of the following is the value of a?
+The cube shown below has edges of length 4. Points A, B, and C are midpoints of three different edges. What is the area of triangle ABC?
+Which segment in the figure below is the longest?
+In the figure shown below l is perpendicular to m. What is the value of x?
+In the figure below line AB is perpendicular to line CB, line BD is perpendicular to line AC, AD = 5, and the measure of angle BAC is 60 degrees. What is the length of line BC?
+A circle has radius 8. A cone is formed by cutting out a 60 degree wedge and placing together the two ends of the remaining part of the circle (diagram below). What is the surface area of the cone rounded to the nearest whole number, excluding the circular base?
+The shaded part of the rectangular figure below has a constant width. What is the area of the shaded part?
+The height of triangle ABC is twice the height of parallelogram ADEC. If the area of triangle ABC is 14, what is the area of parallelogram ADEC?
+The scatter plot below shows the relationship between the weight of a car and average miles per gallon of the car. Which of the following accurately describes the relationship.
+The perimeter of the regular hexagon below is 12. What is the length of line AB, if A is equidistant from each vertex?
+The figure below is the side view of a pool that is 10 feet wide. What is the volume of water in the pool when it is filled to 2 feet below the top?
+a||b, x =
+In the figure below, which of the following choices is the median of 100 and y?
+k =
+In the figure below line BC || line DE and point B is the midpoint of line AD. If the area of triangle ABC is 12, what is the area of triangle ADE?
+g(f(2)) =
+The area of the circle below is 64 pi. The measure of arc ABC is 4 pi/3. What is the area of the shaded region?
+A complete network of size n is n points connected by line segments, as shown below. What is the minimum number of segments that must be removed from a complete network of size 5 so that one point has no segments connected to it?
+The figure below is made up of a square and four congruent triangles. The height of each triangle is half the base. What is the probability that a point in the figure picked at random will be inside the shaded area?
+In the figure below x = 130. Which of the following is not true?
+The figure below is formed by inscribing a square in a circle. If the circumference of the circle is 16 pi, what is the area of the shaded regions?
+The area of the circle shown below is 81 pi. What is the length of arc PQR?
+In the figure below if l || m, 2x - y could not equal which of the following?
+In the figure below, what is the value of z in terms of x and y?
+In the figure below, B is the midpoint of line AC. What is the sum of the x-coordinate and y-coordinate for point A?
+In the graph of h(x) below, h(a) = 1, which of the following is not a possible value of a?
+What is the value of x?
+Which of the following could be the quadratic equation of the graph shown below?
+On the graph below point B is symmetric to point A about the y-axis and point C is symmetric to point B across the x-axis. What is the area of triangle ABC?
+The height and the base (line AB) of triangle ABC are equal and the change in the x-value from A to C is one-fourth the base. Which of these could be the coordinates of point C?
+The diagram below represents the cost to set up a computer network, in thousands of dollars. What is the least amount of money it will cost to guarantee that there will be a connection between each point on the network?
+What is the average of the lengths of the five segments seen below?
+In the figure below, the two semicircles have centers that are midpoints of the side of the rectangle. What is the area of the shaded region?
+Triangle ABC is an equilateral triangle. Rectangle DEFG is inscribed in triangle ABC. What is the value of x?
+Which of the following statements is true about the lengths of the sides of triangle ABC below?
+The radius of circle O below is 4. What is the area of triangle AOB?
+The radius in the cylinder below is one-fourth the height. Which of the following is a formula for the volume of this cylinder?
+A rectangle with height 16 is inscribed in a circle whose area is 100 pi. What is the area of the rectangle?
+In the figure below, points B and C are on circle O whose area is 81 pi. Line BA is tangent to circle O at point B and BA = 12. What is the length of line CA?
+In the figure below l || m. What is the value of x + y?
+The figure below is formed by two overlapping equilateral triangles, each having area 36 square root 3. The shaded region is made up of six congruent equilateral triangles. What is the perimeter of the shaded region?
+The graphs of f(x) and g(x) are shown below. What is the value of g[f(5)]?
+In the figure below, what is the value of x in terms of a and b?
+What is the perimeter of the triangle shown above?
+In the figure above, ABCD is a parallelogram. If x = 300, what is the value of y?
+In the figure above, all angles are right angles and y = 2x. If m, x, and y are all lengths of the segments indicated, what fraction of the figure is shaded?
+The centers of the three circles above lie on segment line CP (not shown), and the three circles are mutually tangent at point P. The center of the largest circle is point C, and the center of the middle circle lies on the smallest circle. If the radius of the smallest circle is 5, what is the circumference of the largest circle?
+The figure above shows the graph of the function f. If g(x) = -f(x) for all values of x, which of the following is a true statement describing the graph of g in comparison with the graph of f?
+In the figure above, line segments line BD and line AB are tangent to the circle at points C and A, respectively. If the circle is centered at E, what angle must have the same measure as angle ABD?
+What is the value of x in the figure above?
+In the figure above, the measure of angle AOC is 144 degrees. What is the average (arithmetic mean) of x, y, w, and z?
+Twelve people were asked to run a distance of 1 mile. The scatterplot above shows the height and running time for each of them. Which of the following is true about the line of best fit?
+In the figure above, three lines intersect as shown. What is the value of x?
+In the figure above, what is the area of square QRST?
+The Venn diagram above shows the distribution of 30 science students who studied butterflies, grasshoppers, both, or neither. What percent of the students studied butterflies only?
+In the figure above, AB = CD. What is the value of t?
+In the figure above, the circles are tangent as shown and the center of circle A is also the center of the largest circle. If the radius of circle A is 2, the radius of circle B is 4, and the radius of circle C is r, what is the radius of the largest circle?
+In the figure above, tick marks are equally spaced on the number line. What is the value of x?
+In the figure above, what is the value of x?
+The coordinate of point A in the figure above are (p, r), where |p| > |r|. Which of the following could be the slope of line AB?
+In right triangle ABC above, line EF || line AC, and F is the midpoint of line BC. What is the area of the shaded rectangular region?
+The pyramid shown above has altitude h and a square base of side m. The four edges that meet at V, the vertex of the pyramid, each have length e. If e = m, what is the value of h in terms of m?
+What is the value of w in the figure above?
+In the figure above, the circle with center O is inscribed in square ABCD. What is the area of the shaded portion of the circle?
+In the xy-plane above, the equation of line l is x + 3y = 12. Which of the following is an equation of a line that is perpendicular to line l?
+The flag shown above is made of overlapping equilateral triangles ADF and BCE. Because ribbon is to be sewn around the entire outer edge, it is necessary to know the perimeter of the flag. If line CD, line DE, and line EF each have length 10 inches, what is the length, in inches, of the perimeter shown in bold?
+The graph above shows the function g, where g(x) = k(x + 3)(x - 3) for some constant k. If g(a - 1.2) = 0 and a > 0, what is the value of a?
+In the figure above, point A is the center of the circle and segments line BD and line CE are diameters. Which of the following statements is true?
+If line QR || line PS in the figure above, what is the value of 2(x + y)?
+The figure above shows the graph of y = f(x) from x = -8 to x = 8. For what value of x in this interval does the function f attain its maximum value?
+The letters v, w, x, and y represent numbers as shown on the number line above. Which of the following expressions has the least value?
+As shown above, a certain design is to be painted using 2 different colors. If 5 different colors are available for the design, how many differently painted designs are possible?
+What is the area of the six-sided figure above?
+In the figure above, what is the value of PT/PS?
+A biology teacher graphed the length of a fish over time, and the results are shown above. If L represents the length of the fish in millimeters and W represents the number of the week, which of the following equations best describes the data shown?
+In the Venn diagram above, the number in each region indicates how many elements are in that region? How many elements are in the intersection sets of Y and Z?
+The right circular cylinder above has diameter d and height h. Of the following expressions, which represents the volume of the smallest rectangular box that completely contains the cylinder?
+A ramp is extended from a truck to the ground, as shown in the figure above. The ramp has a slope of 7/16. If y is 3.5 feet, what is x, in feet?
+The graph above is a parabola whose equation is y = ax^2 + 2, where a is a constant. If y = a/3 x^2 + 2 is graphed on the same axes, which of the following best describes the resulting graph as compared with the graph above?
+In the figure above, l || m and y = 3x. What is the value of y?
+The inside dimensions of the rectangular box shown above are 4 inches by 4 inches by 8 inches. What is the maximum number of CD cases like the one shown that will fit inside the box if each CD case has outside dimensions of 4 inches by 4 inches by 1/4 inch?
+The figure above shows an arrangement of 10 squares, each with side of length k inches. The perimeter of the figure is p inches. The area of the figure is a square inches. If p = a, what is the value of k?
+In triangle HJK above, angle JHK is a right angle. Which of the following lengths is the greatest?
+In the figure above, P lies on line AD and line PC bisects angle BPD. What is the measure of angle CPD?
+In the figure above, point T is the same distance from O as point P is from O. Which of the following could be the coordinates of point T?
+In the figure above, rectangles PQRS and WXYZ each have a perimeter 12 and are inscribed in the circle. How many other rectangles with perimeter 12 can be inscribed in the circle?
+The triangle above is isosceles and AB > AC. Which of the following must be FALSE?
+The graph above shows the distribution of Tom's $240 trip expenses. The amount Tom paid for the hotel room was only part of the total hotel room cost, because he shared the cost of the room equally with 3 other people. What was the total cost of the hotel room?
+In the figure above, what is the value of x + y + z?
+In the circle above, pentagon ABCDE is equilateral. What is the ratio of the length of arc arc ABC to the length of arc arc AEC?
+Tick marks are equally spaced on the number line above. Which of the lettered points has a coordinate equal to (-1/2)^2?
+The figure above is a Venn diagram that represents sets A, B, and C. The number in each region indicates how many elements are in that region. How many elements are common to sets A and B?
+Semicircular arcs arc AB, arc AC, arc BD, and arc CD divide the circle above into regions. The points shown along the diameter line AD divide it into 6 equal parts. If AD = 6, what is the total area of the shaded regions?
+At a beach, a rectangular swimming area with dimensions x and y meters and a total area of 4,000 square meters is marked off on three sides with rope, as shown above, and bounded on the fourth side by the beach. Additionally, rope is used to divide the area into three smaller rectangular sections. In terms of y, what is the total length, in meters, of the rope that is needed both to bound the three sides of the area and to divide it into sections?
+In the xy-coordinate system above, the circle is tangent to the x-axis and the y-axis. What are the coordinates of point P?
+What is the area of square ABCD above?
+In the figure above, six segments intersect at O; line OD bisects angle AOF, line OC bisects angle AOE, and line OB bisects angle AOD. If x = 40 and y = 30, what is the measure of angle BOE? (Disregard the degree symbol when gridding your answer.)
+One end of an 80-inch-long paper strip is shown in the figure above. The notched edge, shown in bold, was formed by removing an equilateral triangle from the end of each 4-inch length on one end of the paper strip. What is the total length, in inches, of the bold notched edge on the 80-inch paper strip?
+In the figure above, PQRS is a square and points Q, R, and O lie on the graph of y = ax^2, whree a is a constant. If the area of the square is 64, what is the value of a?
+Which of the following must be true about t, r, and x in the figure above?
+In the xy-coordinate plane above, line n is perpendicular to line l. What is the slope of line n?
+In the figure above, what is the value of x + y?
+In the figure above, point P has coordinates (a, b). Which of the following points could have coordinates (a, 2b)?
+In the figure above, line AD and line BE intersect at point C and line AB || line DE. If x = 75 and y = 40, what is the value of z?
+What is the area of the figure above?
+In the figure above, line k is parallel to the y-axis. Which of the following is an equation of line k?
+The figure above shows a right circular cylindrical wheel of cheese 2 inches high from which a wedge weighing 1/2 pound has been cut. All cuts are perpendicular to the base and radiate from points B and C, the centers of the circular top and bottom. What is the weight, in pounds, of the original uncut wheel?
+In the figure above, the circle with center P has radius 6 and the circle with center Q has radius 1. The circles are tangent to each other. Segment line QR is tangent to the larger circle and intersects the smaller circle at S. What is the length of segment line RS?
+The large cube in the figure above is divided as shown into 64 smaller cubes, all of equal volume. If 18 of these smaller cubes have a combined value of 54, what is the volume of the large cube?
+In the figure above, ABDF is a rectangle and C, E, and G are the midpoints of sides line BD, line DF, and line AF, respectively. What fraction of the total area of ABDF is shaded?
+The figure above shows part of the graph of the quadratic function f. The graph intersects the x-axis at x = -1 and x = k (not shown). If the vertex of the graph of f is the point (3, -4), what is the value of k?
+In the xy-coordinate system above, the slope of line PQ is 2 and the slope of line QR is 1/2. What is the slope of line PR?
+In the figure above, what is the value of x?
+The circle with radius r is inscribed in a square with side t as shown above. What is the value of r/t?
+The figure above shows a portion of the graph of the function f. What are all the values of x between -4 and 4 for which f is increasing?
+In each of the three square figures above, only the small 1-by-1 squares that border the outside edges of the figure are shaded. If a square whose side measures 100 were divided into 1-by-1 squares that are shaded in a similar fashion, how many squares in that figure would be shaded?
+In triangle ABC above, what is the length of side line BC?
+On the number line above, x is the coordinate of the point shown. Which of the following must be true? I. |x| < 1 II. |x - 2| > 1 III. |x| + |x - 1| = 1
+On the number line above, which of the following is the best approximation of |p - r|?
+In the figure above, line r is parallel to line s. If y = 18, what is the value of x?
+In the figure above, the circle has center O. If the measure of arc arc APB is 56 degrees, what is the value of x?
+Which of the following represents the area of the five-sided figure shown above?
+In the figure above, how much greater is the perimeter of triangle ABC than the perimeter of triangle ADC?
+The figure above shows the graph of y = h(x), where h is a function. If h(a) = h(2a), which of the following could be the value of a?
+In the figure above, K is a point on segment line JL. What is the value of d?
+A circle with circumference of 16 pi is inscribed in a square, as shown in the figure above. What is the area of the square?
+Each of the containers shown above has a radius r of 3 inches and a height h of 6 inches. If the cone-shaped container is filled with water and this water is then poured into the empty cylindrical container, what will be the depth, in inches, of the water in the cylindrical container? (Volume of cone = 1/3 pi r^2 h)
+In the figure above, the graph of y = 2x^2 - 9x + 9 intersects the y-axis at P and the x-axis at R. What is the area of rectangle OPQR?
+Lines j, k, and l intersect at a point as shown above. If y = 70, what is the value of x?
+Line l intersects line AC at point B so that AB < BC, as shown above. If X, Y, and Z (not shown) are the midpoints of line AB, line AC, and line BC, respectively, which of the following must be true? I. A and X are on the same side of l. II. C and Y are on the same side of l. III. X and Z are on opposite sides of l.
+The figure above shows a trapezoid divided into three triangles. What is the area of the shaded triangle?
+In triangle MPQ above, the measure of angle M is 30 degrees and the measure of angle Q is 45 degrees. What is the length of segment line MQ?
+In the figure above, ABDE is a parallelogram and BCEF is a rectangle. If BD = 14, BF = 6, and AF = 2, what is the area of rectangle BCEF?
+In the figure above, triangle ABD is isosceles, and triangle BCD is equilateral. What is the degree measure of angle ADC? (Disregard the degree symbol when gridding your answer.)
+The figure above represents a stretch of fencing that is 500 feet long. If fence posts are placed at each end and also placed every 5 feet along the fence for support, how many fence posts in all are there in this stretch of fencing.
+The figure above shows the graph of a quadratic function. What is the value of t?
+In the figure above, l || m. What is the value of y?
+A garden consists of a continuous chain of flower beds in the shape of pentagons, the beginning of which is shown in the figure above. There are 17 flower beds in the chain, and each one, except the first and last, shares two of its sides with adjacent flower beds. If the length of each side of each bed is 1 meter, what is the perimeter of the garden?
+If a 1-inch cube of cheese were cut in half in all three directions as shown above, then the total surface area of the separated smaller cubes would be how much greater than the surface area of the original 1-inch cube?
+In the figure above, each of the four large circles is tangent to two of the other large circles, the small circle, and two sides of the square. If the radius of each of the large circles is 1, what is the radius of the small circle?
+In the figure above, what is the value of x?
+In the figure above, line AB is a diagonal of a square (not shown). Which of the following are the coordinates of one point on the other diagonal of the square?
+The circle graph above shows the division of a quantity into three parts. What is the ratio of the amount of X to the amount of Y?
+In the rectangle above, the radius of each quarter circle is 3. What is the area of the shaded region?
+If the tick marks are equally spaced on the number line above, what is the value of y?
+In the figure above, what is the area of triangle ABC?
+Figures I and II above show two stacks of identical pails and their heights. If n is the number of pails in a stack and n > 1, the height of the stack, in inches, is given by h(n) = 2n + 8. The number 2 in the equation represents what quantity in Figure III?
+The figure above shows a solid with a hexagonal base. If each edge of the base has length 5 and each of the other edges of the solid has length 15, what is the sum of the lengths of all 12 edges?
+In the figure above, if l || m and y = 2*x, then x =
+If the graph above is reflected about the x-axis, what is the total number of x- and y-intercepts that the resulting graph will have?
+In the figure above, point M is the center of the circle. What is the slope of segment line MR?
+Lines l, m, and n intersect as shown above. What is the value of x?
+In the figure above, the length of the darkened arc arc AB is 1/6 of the circumference of the circle with center O. If the diameter of the circle is 18, what is the length of the darkened arc?
+The largest square above has sides of length 8 and is divided into the two shaded rectangles and two smaller squares labelled I and II. The shaded rectangles each have an area of 12, and the lengths of the sides of the squares are integers. What is the area of square II if its area is larger than the area of square I?
+In the figure above, the three lines l, m, and k intersect to form 6 angles with equal measures. If the dotted segments bisect 2 of those angles, what is the measure, in degrees, of the angle indicated by the arrow? (Disregard the degree symbol when gridding your answer.)
+In the figure above, ABCD is a square with perimeter 12. The 4 triangles are equilateral. What is the perimeter of the shaded region?
+Which of the labeled points on the graph above satisfies the equation |x| + y = 3?
+In the xy-coordinate system above, line l (not shown) does not contain points in either quadrant II or quadrant IV. Which of the following could be the equation of line l?
+In the figure above, if ABCD is a rectangle and x = 60, what is the length of side line AD?
+The figure above consists of four circles, each with its center on segment line AE. Point D is the center of the largest circle. If AB = BC = CD = 1, what is the area of the shaded region?
+In the triangle above, what is the value of x?
+The numbers v, w, x, y, and z are indicated on the number line above. Of the following, which quantity has the least value?
+In the figure above, three circles, each with radius 4, have centers A, E, and D, respectively. Two circles are tangent at E, and circles intersect at B and C, as shown. What is the perimeter of quadrilateral ABCD (not shown)?
+On the number line above, point B is the midpoint of line AC. If k is positive, what is the value of n?
+In the figure above, the center of the circle is O and line AB is tangent to the circle at point B. What is the area of the shaded region?
+What is the area of the shaded pentagon in the figure above?
+The graph above shows the distribution of the number of years of higher education for a group of 6,000 adults. According to the graph, how many of these adults had 5 or more years of higher education?
+In the figure above, the two shaded regions are squares. Which of the following must be true?
+The figure above shows the graph of the function f and line segment line CD, which has a y-intercept of b. For how many values of x between -6 and 6 does f(x) = b?
+What is the value of x in the figure above?
+In the figure above, the perimeter of trapezoid ABCD is 34. What is the perimeter of rectangle FBCE?
+In the figure above, the diameters of the 5 dotted semicircles are equal and lie on line segment line AB. If the length of line segment line AB is 20, what is the length of the dotted curve from A to B?
+In the figure above, what is the value of m?
+The figure above shows the graph of the function f, and the table shows selected values for the function g. For which of the following values of x does f(x) = g(x)?
+Points on the line 2x + y = 1 lie in which of the quadrants shown above?
+In the figure above, y = 5x. What is the value of y?
+In the figure above, there are four nonoverlapping squares with areas 36, 25, 16, and 1, respectively, inside rectangle ABCD. What is the area of the shaded region?
+In the figure above, line QT and line Ps intersect at R. If x = 100, what is the value of y?
+On the number line above, point C is the midpoint of line BD and point B is the midpoint of line AD. What is the coordinate of point C?
+In the figure above, triangle MNP is equilateral. If MN = 4 and PO = 4*sqrt(3), what is the measure of angle NOP?
+In the xy-plane above, which of the following points has coordinates (x, y) such that x <= |x + y| <= y?
+In the figure above, the parabola is the graph of y = x^2. If the y-coordinate of P and the y-coordinate of Q are each 6, what is the length of line PQ?
+The volume of the rectangular solid above is 576. If AD = 3x, DE = 5x, and GH = 6x, what is the value of x?
+The figure above shows a circle with center O and diameter line AC. If AC = 6 and the area of the shaded region is pi, then x =
+In the figure above, line l is perpendicular to the x-axis and is 3 units from the y-axis. Which of the following points is on line l?
+The circle graph above shows the colors for new luxury cars sold in 2002. If 97,000 new blue luxury cars were sold in 2002, then, based on the graph, which of the following is closest to the total number of new luxury cars that were sold that year?
+In the figure above, lines j, k, l, and m intersect as shown. Which of the following is greater than 90?
+In the figure above, PQ = 12. QR = 27, and PS = 18. What is the length of line RS?
+In the figure above, the points (a, 0) and (-a, b) lie on the graph of y = 2 - x^3. What is the value of b?
+On the cube above, the distance from P to Qu is the same as the distance from Q to which of the following points?
+If one of the figures above is selected at random, what is the probability that the number of vertices in the figure will be greater than 5?
+In the figure above, line AB || line CD and line AD || line BC. If point D is on line segment line BE, what is the value of x?
+Rectangle ABCD and triangle XYZ above have equal areas. If the length of line XZ is 14, what is the length of line YW?
+Which of the lettered points on the number line above corresponds to the value of the product xy?
+The figure above shows the graph of the function f. Which of the following is greater than f(-3)?
+The length of a side of equilateral triangle ABC above is 6. D, E, and F are the midpoints of line AB, line BC, and line AC, respectively. A, B, and C are the centers of the circles that contain arcs arc DF, arc DE, and arc FE, respectively. What is the perimeter of the shaded region?
+In the figure abofe, the three lines intersect at a point. Which of the following must equal a + f?
+In the xy-plane above, line RS is tangent to the circle at point P. If (1, 4) is the center of the circle, what is the slope of line RS?
+In a survey, 5000 students selected their usual methods of communicating with friends from the following three options: calling (C), text messaging (T), or instant messaging (I). The Venn diagram above shows the results of the survey. How many students selected exactly two of the three methods of communicating?
+In triangle ABC above, what is the value of x?
+Rectangle ABCD, shown above, has dimensions 10 by 30. Segments line BE and line FD are diagonals of the two squares. What is the area of the shaded region?
+In the figure above, points A and B lie on a line. If y = 130, what is the value of x?
+What is the total area of the shaded figure above?
+In the figure above, if c = 2, what is the value of a + b?
+The graphs of the equations y = x^2 and y = k - x^2, where k is a constant, are shown above. If the length of line AB is an integer, which of the following CANNOT be the value of k?
+In the figure above, ABCD is a rectangle. What is the value of x?
+In the figure above, line PQ is perpendicular to line QR and line PR is perpendicular to line RS. If the lengths of line PQ, line QR, and line RS are each 1, what is the length of line PS?
+Any segment whose endpoints are two nonadjacent vertices of a polygon is called a diagonal of that polygon. What is the greatest number of diagonals that could be drawn in the hexagon shown above?
+In triangle ABC above, points D and F lie on side line AC. Side line AB is parallel to side line DE, and side line BC is parallel to side line EF. What is the length of side line AB?
+One of the 6 objects above will be chosen at random. What is the probability that the object chosen will be a shaded triangle?
+In the figure above, what is the distance from point T to line l?
+When line l above is translated vertically 3 units down, what is an equation of the resulting line?
+The figure above shows the graph of the function f. Based on the graph, which of the following could be true about the function over the entire interval a < x < b?
+The volume of a triangular prism is equal to the area of its base times its height. What is the volume of the prism in the figure above, if its height is 8 and its base is an equilateral triangle with side of length 10?
+The sum of the areas of the 3 circles above is pi. The radius of circle II is 1/2 the radius of circle I, and the radius of circle III is 1/3 the radius of circle I. What is the radius of circle I?
+In the figure above, lines l and m intersect as shown. What is the value of x?
+In the xy-plane above, point A is the center of the circle. The two diameters shown are perpendicular to each other. What are the coordinates of point B?
+In the figure above, a circle with center O is inscribed in a square of area 49 centimeters. What is the circumference of the circle, in centimeters?
+The figure above shows a parabola with x-intercepts (a, 0) and (b, 0) and line of symmetry x = k. What is b in terms of a and k?
+In the figure above, PQRS is a rectangle. The area of triangle RST is 7 and PT=2/5*PS. What is the area of PQRS?
+In the figure above, point B lies on side AC. If 55 < x < 60, what is one possible value of y ?
+In rectangle ABDF above, C and E are midpoints of sides BD and DF, respectively. What fraction of the area of the rectangle is shaded?
+In rectangle ABCD above, the area of the shaded region is given by \pi*l*w/4. If the area of the shaded region is 7*\pi, what is the total area, to the nearest whole number, of the unshaded regions of rectangle ABCD ?
+Four lines are drawn through the center of the rectangle shown above. What fraction of the area of the rectangle is shaded?
+In the figure above, the seven small circles, which have equal radii, and the large circle share only those points on the circles that are marked. Point P is the center of the large circle and PA and PB are radii. The area of the shaded portion is how many times the area of one of the small circles?
+In the figure above, the seven small circles, which have equal radii, and the large circle share only those points on the circles that are marked. Point P is the center of the large circle and PA and PB are radii. The area of the shaded portion is how many times the area of one of the small circles?
+In the figure above, the circle with center O has radius 7, AB is a diameter, and AC = BC. What is the area of triangle ABC?
+In the figure above, lines l and m are not parallel. Which of the following cannot be the value of x?
+In the triangle above, which of the following must be true?
+In the figure above, what is the value of x?
+The perimeter of the rectangle above is p and the area of the rectangle is 36. If l and w are integers, what is one possible value of p?
+In the figure above, if the angle (not shown) where lines n and p intersect is twice as large as the angle (also not shown) where lines l and m intersect, what is the value of x?
+In the figure above, points A and B lie on the circle with center O. If x = 80, what is the value of z?
+In the figure above, the four circles have the same center and their radii are 1, 2, 3, and 4, respectively. What is the ratio of the area of the small shaded ring to the area of the large shaded ring?
+If the perimeter of the rectangle above is 72, what is the value of x?
+In triangle ABC above, the length of AB is 3, and D is the midpoint of AC. What is the length of BC?
+In the figure above, side AC of triangle ABC is on line l. What is x in terms of k?
+In the figure above, the lengths and widths of rectangles A, B, C, and D are whole numbers. The areas of rectangles A, B, C, and D are whole numbers. The areas of rectangles A, B, and C are 35, 45, and 36, respectively. What is the area of the entire figure?
+In the figure above, if the area of triangle CAF is equal to the area of rectangle CDEF, what is the length of segment AD?
+In the diagram at the right, circle O has a radius of 5, and CE = 2. Diameter AC is perpendicular to chord BD at E. What is the length of BD?
