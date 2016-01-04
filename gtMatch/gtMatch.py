@@ -19,10 +19,10 @@ geo_dict = {
     
     }
 """
-pointType = ('point','center','midpoint')
-angleType = ('angle')
+pointType = ('point','center','midpoint','points')
+angleType = ('angle','angles')
 arcType = ('arc','arcs')
-triType = ('triangle','angle')
+triType = ('triangle','angle','triangles','angles')
 lineType = ('line', 'diameter', 'chord', 'median', 'altitude','secant','hypothenuse',
              'transversal','diagonal','bisector','ray')
 polygonType = ('triangle', 'rectangle', 'square', 'rhombus', 'base','quadrilateral','hexagon')
@@ -58,37 +58,43 @@ for t_item in textstrlist:
         if w.isupper():
             pre_w = (words[i-1]).lower()
             tempGeoElement['label'] = w
-            if len(w) == 1:
-                if pre_w in circleType:
-                    tempGeoElement['type'] = 'circle'
-                elif pre_w in angleType:
-                    tempGeoElement['type'] = 'angle'
-                elif pre_w in lineType:
-                    tempGeoElement['type'] = 'line'
-                else:
-                    tempGeoElement['type'] = 'point'
-            elif len(w) == 2:
-                if pre_w in arcType:
-                    tempGeoElement['type'] = 'arc'
-                else:
-                    tempGeoElement['type'] = 'line'
-            elif len(w) == 3:
-                if pre_w in triType:
-                    tempGeoElement['type'] = pre_w
-            elif len(w) == 4:
-                tempGeoElement['type'] = 'quad'
-            elif len(w) == 6:
-                tempGeoElement['type'] = 'hexagon'
+            if pre_w == 'and':
+                tempGeoElement['type'] = geoElements[-1]['type']
             else:
-                tempGeoElement['type'] = 'polygon'
+                if len(w) == 1:
+                    if pre_w in circleType:
+                        tempGeoElement['type'] = 'circle'
+                    elif pre_w in angleType:
+                        tempGeoElement['type'] = 'angle'
+                    elif pre_w in lineType:
+                        tempGeoElement['type'] = 'line'
+                    else:
+                        tempGeoElement['type'] = 'point'
+                elif len(w) == 2:
+                    if pre_w in arcType:
+                        tempGeoElement['type'] = 'arc'
+                    else:
+                        tempGeoElement['type'] = 'line'
+                elif len(w) == 3:
+                    if pre_w in ('triangle','triangles'):
+                        tempGeoElement['type'] = 'triangle'
+                    elif pre_w in ('angle','angles'):
+                        tempGeoElement['type'] = 'angle'
+                elif len(w) == 4:
+                    tempGeoElement['type'] = 'quad'
+                elif len(w) == 6:
+                    tempGeoElement['type'] = 'hexagon'
+                else:
+                    tempGeoElement['type'] = 'polygon'
             geoElements.append(tempGeoElement)
     geoLabels.append(geoElements)
-        
+ """      
 # write the result into a txt (optional)
 with open('r_label.txt','w') as fun:
     for r_item in geoLabels:
         fun.write(str(r_item))
         fun.write('\n')
+"""
 # get the label and type from original data label
 
 
